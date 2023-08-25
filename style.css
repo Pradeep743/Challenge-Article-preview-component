@@ -112,3 +112,72 @@ main {
     width: 2rem;
     color: #6E8098;
 }
+
+
+/* share-section */
+.share-section {
+    display: flex;
+    gap: 1rem;
+    background-color: hsl(217, 19%, 35%);
+}
+
+.share-section .share {
+    align-self: center;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
+    font-weight: 500;
+    color: hsl(212, 23%, 69%);
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+/* additional classes */
+.hidden {
+    display: none;
+}
+
+.bg-change {
+    background-color: hsl(217, 19%, 35%);
+}
+
+.button-change {
+    background: hsl(214, 17%, 51%);
+    color: #fff;
+}
+
+@media (min-width: 740px) {
+    main {
+        position: relative;
+    }
+
+    .author-info.hidden {
+        display: flex;
+    }
+
+    .bg-change {
+        background-color: transparent;
+    }
+
+    .share-section {
+        border-radius: 6px;
+        position: absolute;
+        top: 40%;
+        left: 77%;
+        padding: 1rem;
+    }
+
+    .share-section::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 55%;
+        border: 15px solid;
+        border-color: hsl(217, 19%, 35%) transparent transparent transparent;
+    }
+
+}
