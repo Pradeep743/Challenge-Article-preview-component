@@ -12,7 +12,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -41,5 +40,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
+## Author
 
-
+- LinkedIn - [@pradeepsahu074](https://www.linkedin.com/in/pradeepsahu074/)
+- Frontend Mentor - [@Pradeep743](https://www.frontendmentor.io/profile/Pradeep743)
