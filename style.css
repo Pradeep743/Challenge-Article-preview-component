@@ -40,11 +40,9 @@ main {
 }
 
 @media (min-width:740px) {
-
     .article-image img {
         max-height: 30rem;
         display: block;
-        object-fit: cover;
     }
 
     .article-preview-card {
