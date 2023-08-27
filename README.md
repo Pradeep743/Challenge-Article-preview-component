@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://your-solution-url.com)
-- Live Site URL: [View Live](https://your-live-site-url.com)
+- Solution URL: [View Code](https://github.com/Pradeep743/Challenge-Article-preview-component)
+- Live Site URL: [View Live](https://pradeep743.github.io/Challenge-Article-preview-component/)
 
 ## My process
 
