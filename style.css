@@ -58,7 +58,7 @@ main {
     padding: 1.5rem 1.7rem;
 }
 
-.article-preview .article-heading {
+h1 {
     font-weight: 700;
     color: hsl(217, 19%, 35%);
     line-height: 1.5;
